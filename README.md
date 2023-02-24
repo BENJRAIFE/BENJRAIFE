@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Kotlin ,Java ...**
 
 <h3 align="left">Connect with me:</h3>
-<img align="center" alt="Coding" with="600" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"
+<img align="center" alt="Coding" with="800" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"
 <p align="left">
 </p>
 
