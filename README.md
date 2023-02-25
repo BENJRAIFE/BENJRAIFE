@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bouchra Benjraife</h1>
-<h2 align="center">I'm app mobile developer from Morocco</h2>
+<h3 align="center">I'm app mobile developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Kotlin ,Java ...**
 
