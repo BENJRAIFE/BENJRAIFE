@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bouchra Benjraife</h1>
 <h3 align="center">I'm app mobile developer from Morocco</h3>
+<h3 align="left">Connect with me:</h3>
 
 <img align="center" alt="Coding" with="200" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"
 <p align="left">
@@ -11,7 +12,6 @@
 <h4> - 📫 How to reach me : bouchrabenjraife07@gmail.com.</h4>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bouchra benjraife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouchra benjraife" height="30" width="40" /></a>
 </p>
