@@ -9,7 +9,7 @@
 </p>
 
 
-<h4> - 🌱 I’m currently learning : Kotlin ,Java ,C...</h4>
+<h4> - 🌱 I’m currently learning : C ,Kotlin ,Java ...</h4>
 <h4> - 📫 How to reach me : bouchrabenjraife07@gmail.com.</h4>
 
 <h3 align="left">Connect with me:</h3>
