@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bouchra Benjraife</h1>
-<h3 align="center">I'm app mobile developer from Morocco</h3>
+<h3 align="center">I'm software developer from Morocco</h3>
 
 
 
@@ -9,7 +9,7 @@
 </p>
 
 
-<h4> - 🌱 I’m currently learning : Kotlin ,Java ,Dart...</h4>
+<h4> - 🌱 I’m currently learning : Kotlin ,Java ,C...</h4>
 <h4> - 📫 How to reach me : bouchrabenjraife07@gmail.com.</h4>
 
 <h3 align="left">Connect with me:</h3>
